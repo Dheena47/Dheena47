@@ -2,7 +2,7 @@
 
 <h3 align="center">Aspiring MERN Stack & DevOps Engineer</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right"/>
 
 ### 🚀 About Me
 
@@ -11,6 +11,10 @@
 * 🐳 Exploring Docker & Kubernetes
 * 💻 Building Full Stack Projects
 * 🎯 Goal: Become a Full Stack Developer
+
+  
+
+
 
 ---
 
