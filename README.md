@@ -88,6 +88,4 @@
 
 ### 📫 Connect With Me
 
-instagram: https://www.instagram.com/xyz_dheena?igsh=ZWM2MDI4bXd3eWpt
-
 LinkedIn: 
